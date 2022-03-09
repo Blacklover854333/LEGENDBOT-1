@@ -30,8 +30,8 @@
 ------
 
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Legend_K_Userbot)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Official_K_LegendBot)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/quick_mcq)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/stranger_yarr)
 
 ------
 
@@ -42,7 +42,7 @@
 
 <h3> Dєρℓογ το нєяοκυ </h3>
 
-- Click Here :- [main repo](https://github.com/LEGEND-AI/LEGENDBOT)
+- Click Here :- [main repo](https://github.com/Blacklover854333/LEGENDBOT)
 - Fork The Main Repo.
 - Go to Setting Of Repo.
 - Rename the Fork Repo Put Anything Example : LEGEND1BOT, HSKSBOT, LEGENDOFFBOT etc...
